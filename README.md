@@ -9,13 +9,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengjibo&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 </p>
   
-<a href="mailto:qqlengyi@163.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqlengyi@163.com" alt="Gmail"></a>
 </div>
 ---
 
-⭐️ From [@YanMu2020](https://github.com/YanMu2020)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
+⭐️ 
 
 -稻草人安全团队成员
 
