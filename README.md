@@ -1,16 +1,29 @@
-### Hi there 👋
+<h2> Hi, I'm yanmu! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<p><em>My blog is <a href="https://lengjibo.github.io/">lengyi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em></p>
 
-<!--
-**YanMu2020/YanMu2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Nice to see you.</h2>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=lengjibo&show_icons=true&hide_border=true&hide=prs&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengjibo&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+</p>
+  
+<a href="mailto:qqlengyi@163.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqlengyi@163.com" alt="Gmail"></a>
+</div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [@YanMu2020](https://github.com/YanMu2020)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
+
+-稻草人安全团队成员
+
+## 注：
+
+所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
+
+所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
+
+所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
+
