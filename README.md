@@ -1,9 +1,8 @@
 <h2> Hi, I'm yanmu! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Nice to see you.</h2>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengjibo&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanMu2020&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 </p>
   
 </div>
@@ -16,8 +15,3 @@
 ## 注：
 
 所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
-
-所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
-
-所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
-
